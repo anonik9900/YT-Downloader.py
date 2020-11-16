@@ -13,7 +13,7 @@ from pytube import YouTube
 
 ascii_banner = pyfiglet.figlet_format("YT-Downloader")
 print(ascii_banner)
-print ("{< Devoled By Anonik V 0.1>}")
+print ("{< Devolved By Anonik V 0.1>}")
 print("")
 
 
